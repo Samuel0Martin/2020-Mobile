@@ -1,0 +1,6 @@
+[submodule "mobile-practicals-Samuel0Martin"]
+	path = mobile-practicals-Samuel0Martin
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-practicals-Samuel0Martin.git
+[submodule "mobile-course-materials"]
+	path = mobile-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-course-materials.git
